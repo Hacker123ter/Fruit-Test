@@ -1,7 +1,7 @@
 ## Fruit-Test  
 
-![Version](https://img.shields.io/badge/Тест_Версия-1.0-red.svg)  
-![API](https://img.shields.io/badge/Paper%201.21%2B-blue.svg)  
+![Version](https://img.shields.io/badge/Тест_Версия-1.0-red.svg)
+![API](https://img.shields.io/badge/Paper%201.21%2B-blue.svg)
 
 <h3 align="center">Discord: luckytsb</h3>  
 

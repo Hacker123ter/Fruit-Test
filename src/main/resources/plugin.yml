@@ -1,0 +1,12 @@
+name: Fruit-Test
+version: '${project.version}'
+main: org.dw363.fruittest.Main
+api-version: '1.21'
+load: STARTUP
+authors: [dw363]
+description: Пробный плагин фрукта, сделан специально для vabalda
+website: https://github.com/Hacker123ter
+commands:
+  apple:
+    description: Получить Проклятое яблоко
+    usage: /apple
